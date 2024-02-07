@@ -1,0 +1,2 @@
+/PixelStreamingDemo/content/paks/** filter=lfs diff=lfs merge=lfs -text
+/PixelStreamingDemo/Binaries/Linux/** filter=lfs diff=lfs merge=lfs -text
