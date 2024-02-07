@@ -1,1 +1,1 @@
-./PixelStreamingDemo/Binaries/Linux/PixelStreamingDemo -game -log -RenderOffScreen -ResX=1080 -ResY=720 -ForceRes -Windowed -PixelStreamingURL=ws://localhost:8888
+./PixelStreamingDemo.sh -game -log -RenderOffScreen -ResX=1080 -ResY=720 -ForceRes -Windowed -PixelStreamingURL=ws://localhost:8888
