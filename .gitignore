@@ -1,4 +1,10 @@
 node_modules
-*-lock.json
-logs
 node
+logs
+Logs
+CrashReportClient
+Crashes
+
+*.log
+*.out
+*-lock.json

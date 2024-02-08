@@ -1,0 +1,1 @@
+nohup sh -c "./SignallingServer.sh & ./RunGame.sh &"
